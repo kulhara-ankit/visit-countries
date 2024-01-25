@@ -1,3 +1,6 @@
+![image](https://github.com/kulhara-ankit/visit-countries/assets/146313680/868642cb-9403-4f02-83f7-a03438d78d6f)
+
+
 The goal of this coding exam is to quickly get you off the ground with **Lists and Keys** in React JS.
 
 ### Refer to the image below:
